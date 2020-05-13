@@ -1,3 +1,18 @@
 [submodule "2020/2020-lim"]
 	path = 2020/2020-lim
 	url = git@github.com:devangel77b/2020-lim.git
+[submodule "2018/2018-roman"]
+	path = 2018/2018-roman
+	url = git@github.com:devangel77b/2018-roman.git
+[submodule "2019/2019-bhagat"]
+	path = 2019/2019-bhagat
+	url = git@github.com:devangel77b/2019-bhagat.git
+[submodule "2019/2019-jhu"]
+	path = 2019/2019-jhu
+	url = git@github.com:devangel77b/2019-jhu.git
+[submodule "2019/2019-rudge"]
+	path = 2019/2019-rudge
+	url = git@github.com:devangel77b/2019-rudge.git
+[submodule "2021/2021-cassidy"]
+	path = 2021/2021-cassidy
+	url = git@github.com:devangel77b/2021-cassidy.git
