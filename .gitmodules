@@ -1,3 +1,6 @@
 [submodule "2020/2020-lim"]
 	path = 2020/2020-lim
 	url = git@github.com:devangel77b/2020-lim.git
+[submodule "2021/2021-kim"]
+	path = 2021/2021-kim
+	url = git@github.com:devangel77b/2021-kim.git
