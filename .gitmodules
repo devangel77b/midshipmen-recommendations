@@ -19,3 +19,36 @@
 [submodule "2021/2021-cassidy"]
 	path = 2021/2021-cassidy
 	url = git@github.com:devangel77b/2021-cassidy.git
+[submodule "2020/2020-burgess"]
+	path = 2020/2020-burgess
+	url = git@github.com:devangel77b/2020-burgess
+[submodule "2020/2020-marcello"]
+	path = 2020/2020-marcello
+	url = git@github.com:devangel77b/2020-marcello
+[submodule "2020/2020-phan"]
+	path = 2020/2020-phan
+	url = git@github.com:devangel77b/2020-phan
+[submodule "2021/2021-viswanathan"]
+	path = 2021/2021-viswanathan
+	url = git@github.com:devangel77b/2021-viswanathan
+[submodule "2021/2021-stites"]
+	path = 2021/2021-stites
+	url = git@github.com:devangel77b/2021-stites
+[submodule "2021/2021-davis"]
+	path = 2021/2021-davis
+	url = git@github.com:devangel77b/2021-davis
+[submodule "2021/2021-long"]
+	path = 2021/2021-long
+	url = git@github.com:devangel77b/2021-long
+[submodule "2021/2021-yataco"]
+	path = 2021/2021-yataco
+	url = git@github.com:devangel77b/2021-yataco
+[submodule "2022/2022-forys"]
+	path = 2022/2022-forys
+	url = git@github.com:devangel77b/2022-forys
+[submodule "2022/2022-kee"]
+	path = 2022/2022-kee
+	url = git@github.com:devangel77b/2022-kee
+[submodule "2024/2024-luther"]
+	path = 2024/2024-luther
+	url = git@github.com:devangel77b/2024-luther
