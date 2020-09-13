@@ -52,3 +52,6 @@
 [submodule "2024/2024-luther"]
 	path = 2024/2024-luther
 	url = git@github.com:devangel77b/2024-luther
+[submodule "2021/2021-hiler"]
+	path = 2021/2021-hiler
+	url = ssh://git@github.com/devangel77b/2021-hiler.git
