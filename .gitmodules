@@ -55,3 +55,6 @@
 [submodule "2021/2021-hiler"]
 	path = 2021/2021-hiler
 	url = ssh://git@github.com/devangel77b/2021-hiler.git
+[submodule "2021/2021-pak"]
+	path = 2021/2021-pak
+	url = git@github.com:devangel77b/2021-pak.git
